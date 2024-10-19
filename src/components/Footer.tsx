@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 border-t border-gray-700 pt-8 text-center">
           <p className="text-base text-gray-400">
-            © 2023 HeiDoktor. Alle rettigheter reservert.
+            © 2024 HeiDoktor. Alle rettigheter reservert.
           </p>
         </div>
       </div>
